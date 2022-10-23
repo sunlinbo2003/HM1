@@ -1,0 +1,24 @@
+<html><head>
+		<meta charset="utf-8">
+		<title>LOGO</title> 
+		<style type="text/css">
+				div{
+					height:90px;
+					background-image:url(HM1.png);
+					background-size: 90px 90px;
+					background-repeat:no-repeat;
+					font-size: 44px;
+					background-position:left ;
+					background-color: palevioletred;
+					width:500px;
+					font-family: fangsong;
+					text-align: right;
+				    line-height:90px;
+				}
+		</style>
+	</head>
+	<body>
+		 <div>精勤博学,学以致用</div>
+	
+
+</body></html>
